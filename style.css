@@ -1,0 +1,18 @@
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 20px 30px;
+}
+.buy-now-button{
+    border: none;
+    color: white;
+    background-image: linear-gradient(to bottom, rgb(69, 69, 69) 0%, rgb(10, 9, 9) 100%);
+    cursor: pointer;
+    text-decoration: none;
+}
+.carousel{
+    background-image: url(bg-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
