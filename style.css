@@ -10,9 +10,25 @@
     background-image: linear-gradient(to bottom, rgb(69, 69, 69) 0%, rgb(10, 9, 9) 100%);
     cursor: pointer;
     text-decoration: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    cursor: pointer;
 }
 .carousel{
     background-image: url(bg-1.png);
     background-repeat: no-repeat;
     background-position: bottom;
+}
+.card{
+    border: none;
+    box-shadow: 4px 4px 10px rgb(202, 201, 201);
+    text-align: center;
+    padding: 40px 40px;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+.see-all{
+    color: darkorange;
 }
